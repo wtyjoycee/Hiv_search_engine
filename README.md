@@ -7,6 +7,10 @@ annotation.csv
 
 annotation1.csv
 
+qidDocPair.csv
+
+qidDocPair_result.csv
+
 # RUNNING PART
 Task 2.2: read from annotation, create our query and relevance dataset
 
