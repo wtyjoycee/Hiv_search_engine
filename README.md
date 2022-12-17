@@ -18,6 +18,14 @@ Task 3.1: First try on learn to rank algorithm
 
 Task 3.2: Add more features and test the performance
 
+Task 3.3: add cross encoder as features
+
+Task 3.3.2: add cross encoder cos-sim as features
+
+Task 3.4: add more features: xgbooster
+
+Task 3.4: fine tune the parameters
+
 Task 
 # Don't run unless you are interested
 Task 1 is mainly focus on data collection
@@ -25,4 +33,7 @@ Task 1 is mainly focus on data collection
 Task 2.4 create cos-sim based on cross-encoder
 
 Task 2.6 visulization part on annotation
+
+Task 3.3.1 create the cos-sim based on corss encoder
+
 
